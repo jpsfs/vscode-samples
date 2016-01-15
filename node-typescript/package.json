@@ -1,0 +1,14 @@
+{
+  "name": "node-typescript",
+  "description": "node-typescript Sample Application (TypeScript)",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+      
+  },
+  "devDependencies": {
+
+  }
+}
